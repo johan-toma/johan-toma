@@ -2,6 +2,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=johan-toma.johan-toma&left_color=black&right_color=magenta&left_text=Profile%20Views"  />
+</div>
+
+###
+
 <h2 align="center">BSc in Computer Science from Mälardalen University</h2>
 
 ###
@@ -101,13 +109,5 @@
 <br clear="both">
 
 <p align="left"></p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=johan-toma.johan-toma&left_color=black&right_color=magenta&left_text=Profile%20Views"  />
-</div>
 
 ###
