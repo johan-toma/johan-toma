@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on a macronutrient tracking app in ASP.NET<br><br>📚 I'm also strengthening my knowledge in SQL, C#, ASP.NET, and React.<br><br>🥏Fun fact: I love working out and playing basketball.</p>
+<p align="left">🔭 I'm currently working on a macronutrient tracking app in ASP.NET<br><br>📚 I'm also strengthening my knowledge in C#, ASP.NET, and React.<br><br>🥏Fun fact: I love working out and playing basketball.</p>
 
 ###
 
